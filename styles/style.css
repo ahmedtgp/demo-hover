@@ -4,6 +4,7 @@
     margin-top: 2rem;
     transition: all 0.8 ease-in;
     border: 0;
+    cursor: pointer;
 }
 
 .card:hover{
@@ -36,13 +37,14 @@
 
 .--blue{
     background: #6672e5;
+    color: #fff;
 }
 
 .--blue .btn-primary{
     background: #ffd356;
     border-color: #ffd356;
     width: 60%;
-    color: black;
+    color: #000;
 }
 
 .overlay{
